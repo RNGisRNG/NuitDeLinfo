@@ -85,13 +85,14 @@ header a {
 }
 
 .section-child:hover {
-    background-color: #9ae6cb;
+    background-color: #80bfa9;
     color: white;
     transition: 0.5s;
 }
 
-.section-intox {
+.section-solutions {
     width: 100.6%;
+    height: 650px;
     background-color: seagreen;
     padding: 60px 280px;
 }
