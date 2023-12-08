@@ -76,3 +76,23 @@ header a {
 footer {
     padding: 60px;
 }
+
+/** Article global */
+.title-article {
+    color: black;
+}
+
+.intro {
+    width: 90%;
+    margin: 60px auto;
+}
+
+/** article Océan */
+.banniere-ocean {
+    box-shadow: 0 2px 1px slategrey;
+    width: 1653px;
+    height: 600px;
+    margin: auto;
+    background-image: url("../assets/dechet.PNG");
+    background-position: center;
+}
