@@ -56,7 +56,7 @@ header a {
 
 .section-text {
     height: 460px;
-    padding: 60px;
+    padding: 0 60px;
 }
 
 .btn {
@@ -67,7 +67,7 @@ header a {
 }
 
 .btn:hover {
-    background-color: #b3d42f;
+    background-color: black;
     color: white;
     transition: 0.5s;
 }
@@ -85,7 +85,7 @@ header a {
 }
 
 .section-child:hover {
-    background-color: darkseagreen;
+    background-color: #9ae6cb;
     color: white;
     transition: 0.5s;
 }
