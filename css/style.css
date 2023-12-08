@@ -4,9 +4,33 @@ h1 {
     text-shadow: 1px 1px 1px green;
 }
 
+.title-article {
+    font-size: 4rem;
+    color: #23c439!important;
+    text-shadow: none;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #2fd463;
+}
+
+h3 {
+    color: #6ca87e;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
 /** Header */
 header li {
     list-style-type: none;
+    font-size: 1.1rem;
+}
+
+header a:hover {
+    color: #2fd463;
 }
 
 header a {
@@ -43,7 +67,7 @@ header a {
 }
 
 .btn:hover {
-    background-color: green;
+    background-color: #b3d42f;
     color: white;
     transition: 0.5s;
 }
